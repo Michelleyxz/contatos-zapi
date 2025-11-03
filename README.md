@@ -1,5 +1,3 @@
-# contatos
-Contatos-Zapi: Gerencie e envie mensagens automaticamente com a API Z-API de forma rápida, personalizada e prática. Ideal para automação de contatos e mensagens.
 # Envio de Mensagens com Supabase e Z-AP
 # Criar tabela no Supabase
  Crie um projeto no [Supabase](https://supabase.com/)  
