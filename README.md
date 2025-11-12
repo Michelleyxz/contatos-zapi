@@ -1,4 +1,4 @@
-# Envio de Mensagens com Supabase e Z-AP
+# Envio de Mensagens com Supabase e Z-API
 # Criar tabela no Supabase
  Crie um projeto no [Supabase](https://supabase.com/)  
  Vá em Table Editor/ New Table  
