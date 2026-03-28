@@ -1,6 +1,5 @@
 # Envio de Mensagens com Supabase e Z-API
-# Criar tabela no Supabase
- Crie um projeto no [Supabase](https://supabase.com/)  
+# Criar tabela no Supabase 
  Vá em Table Editor/ New Table  
  Nome da tabela: `contatos`  
  Colunas:  
